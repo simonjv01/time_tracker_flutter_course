@@ -19,26 +19,18 @@ class SignInPage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: <Widget>[
-          Container(
-            color: Colors.orange,
-            child: SizedBox(
-              height: 100.0,
+          Text(
+            'Sign In',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 32.0,
+              fontWeight: FontWeight.w600,
             ),
           ),
           SizedBox(height: 8.0),
-          Container(
-            color: Colors.red,
-            child: SizedBox(
-              height: 100.0,
-            ),
-          ),
-          SizedBox(height: 8.0),
-          Container(
-            color: Colors.purple,
-            child: SizedBox(
-              height: 100.0,
-            ),
-          )
+          ElevatedButton(
+              onPressed: () { print('button pressed'); },
+              child: Text('Sign in with Google')),
         ],
       ),
     );
