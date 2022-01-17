@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/simonvargas/Dev/Udemy/flutterApps/time_tracker_flutter_course/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "C:\\Users\\sjvar\\Dev\\flutter_projects\\time_tracker_flutter_course\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/Users/simonvargas/.gradle/caches/transforms-2/files-2.1/f90299ff420036e311b84c728802cd71/core-1.6.0/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "C:\\Users\\sjvar\\.gradle\\caches\\transforms-2\\files-2.1\\f90299ff420036e311b84c728802cd71\\core-1.6.0\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
