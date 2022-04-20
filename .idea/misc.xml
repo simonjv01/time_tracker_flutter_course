@@ -4,6 +4,6 @@
     <type id="android" />
   </component>
   <component name="ProjectType">
-    <option name="id" value="jpab" />
+    <option name="id" value="io.flutter" />
   </component>
 </project>
