@@ -42,9 +42,17 @@ class SignInPage extends StatelessWidget {
           SignInButton(
             text: 'Sign in with Facebook',
             textColor: Colors.white,
-            color: Colors.green,
+            color: Color(0xFF334D92),
             onPressed: () {} ,
           ),
+          const SizedBox(height: 8.0),
+          SignInButton(
+            text: 'Sign in with email',
+            textColor: Colors.white,
+            color:  Colors.teal,
+            onPressed: () {} ,
+          ),
+
 
 
         ],
